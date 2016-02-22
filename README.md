@@ -8,7 +8,7 @@ una función callback cuando uno de éstos eventos es detectado.
 Event-loop: 
 ![alt text](https://github.com/caralasa136/Event-Loop/blob/master/event-loop.jpg)
 
-...
+...javascript
 // Import events module
 var events = require('events');
 // Create an eventEmitter object
